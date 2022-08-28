@@ -14,7 +14,7 @@ font-family: 'Roboto', sans-serif;
 
 .container h1 {
     text-align: center;
-    font-family: 'Sriracha', cursive;
+    
     font-size: 40px;
 }
 
@@ -51,12 +51,7 @@ form{
     cursor: pointer;
 }
 
-.bg{
-    width: 100%;
-    position: absolute;
-    z-index: -1;
-    opacity: 0.6;
-}
+
 .submitMsg{ 
     color: green;
 }
