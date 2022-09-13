@@ -41,7 +41,7 @@ if(isset($_POST['name'])){
 <body>
     
     <div class="container">
-        <h1>Welcome to IIT Kharagpur US Trip form</h1>
+        <h1>Welcome to Manarat rag tour form</h1>
         <p>Enter your details and submit this form to confirm your participation in the trip </p>
         <?php
         if($insert == true){
